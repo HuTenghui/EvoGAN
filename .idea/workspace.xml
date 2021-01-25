@@ -4,14 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bd92d29-9dc8-4d47-9e46-bd04c6054c32" name="Default Changelist" comment="EvoGAN">
-      <change afterPath="$PROJECT_DIR$/.idea/EvoGAN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5bd92d29-9dc8-4d47-9e46-bd04c6054c32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data0000010.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data0000100.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data0001000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data0002080.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data0005500.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data0010000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data0100000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data0130213.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data0280000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data1000000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data2023400 2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data2023400.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data3007000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/face_data3043000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/stastic0000010.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/stastic0000100.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/stastic0001000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/stastic0002080.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/stastic0005500.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/stastic0010000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/stastic0100000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/stastic0130213.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/stastic0280000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/stastic1000000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/stastic2023400.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/stastic3007000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stastic_sample_results/stastic3043000.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,15 +65,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/image2s" />
       <recent name="$PROJECT_DIR$/image2s/angrysad3" />
       <recent name="$PROJECT_DIR$/aaa" />
       <recent name="$PROJECT_DIR$/image2s/angrysad2" />
-      <recent name="$PROJECT_DIR$/results_" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -232,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611057692600</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="EvoGAN">
+      <created>1611059505212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611059505212</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

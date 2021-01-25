@@ -15,3 +15,5 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## analyze
+To generate the stastic results, save all the individuals in a csv file and analyze.
